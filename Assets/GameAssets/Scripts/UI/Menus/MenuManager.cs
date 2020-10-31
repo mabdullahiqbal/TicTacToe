@@ -45,9 +45,7 @@ public class MenuManager : MonoBehaviour
 public enum MenuName
 {
     MainMenu,    
-   S_Player,
-   M_Player,
-   Settings,
-   Create,
-   Join,
+    NewGame,
+    Multiplayer,
+    Settings
 }
